@@ -1,0 +1,7 @@
+led_display.c:22:6:display_init	16	static
+led_display.c:28:6:display_set	16	static
+led_display.c:37:13:display_digit	24	static
+led_display.c:45:6:display_run	8	static
+led_display.c:53:6:road_light	24	static
+led_display.c:59:6:lights_off	4	static
+led_display.c:63:6:blink_color	24	static

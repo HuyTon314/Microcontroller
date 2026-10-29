@@ -1,0 +1,2 @@
+input_processing.c:12:9:button_event	16	static
+input_processing.c:22:6:fsm_for_input_processing	16	static
